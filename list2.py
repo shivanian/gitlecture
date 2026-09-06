@@ -1,0 +1,10 @@
+x=['apple','banana','cherry']
+#print(x)
+x[1:2]=['blackcurrant','watermelon']
+#print(x)
+y=['apple','banana','cherry','orange','kiwi','mango']
+print(y)
+y[1:4]=['watermelon']
+print(y)
+y[0:3]=[]
+print(y)
